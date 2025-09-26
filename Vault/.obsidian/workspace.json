@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "682262d51ca74dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "581b2701f8f76b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e8c0705a0fca39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zināšanu Bāze.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zināšanu Bāze"
+            }
+          },
+          {
+            "id": "f70cb900244b7534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kursi (akadēmija)/Devops un mikroservisi/Docker desktop instalācija.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker desktop instalācija"
+            }
+          },
+          {
+            "id": "5d18d51218fba1ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27a341b6952c238f",
+    "type": "split",
+    "children": [
+      {
+        "id": "742276aad0f095ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67d81251c9b91072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "043e25ba731d636c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#šabloni",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c9e7c5c5f08d9a48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5029602050781
+  },
+  "right": {
+    "id": "d8d6d7cd8f8414bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4fb04154d0b988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f18668479e4e7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4b560d9ec47f477d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "de0c2cb12afe39bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "633f7ebbd827cb0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Сегодняшняя заметка": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "switcher:Меню быстрого перехода": false,
+      "command-palette:Открыть палитру команд": false,
+      "canvas:Создать новый холст": false,
+      "bases:Создать новую базу": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "33e8c0705a0fca39",
+  "lastOpenFiles": [
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker desktop instalācija.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
+    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
+    "Kursi (akadēmija)/Navigācija - Kursi.md",
+    "Zināšanu Bāze.md",
+    "Kursi (akadēmija)/Back-end NET/DB pieslēgšana pie projekta.md",
+    "Kursi (akadēmija)/Back-end NET/Navigācija - back-end NET.md",
+    "Programmēšanas valodas/C Sharp strukturēts/Sintakses pamati un konsoles izvads/Konsoles izvads.md",
+    "Web/Navigācija - Web.md",
+    "Kursi (papildus)/Navigācija - Kursi (papildus).md",
+    "Kursi (papildus)/C Sharp/Navigācija - C Sharp.md",
+    "Kursi (papildus)/Python/Navigācija - Python.md",
+    "Kursi (papildus)/CSS/Navigācija - HTML un CSS.md",
+    "Kursi (papildus)/SQL/Navigācija - SQL.md",
+    "Kursi (akadēmija)/SQL strukturēts/Navigācija - SQL strukturēts.md",
+    "Kursi (papildus)/NoSQL DB/Navigācija - NoSQL DB.md",
+    "Kursi (papildus)/Ievads lietotņu programmēšana C_sharp/Navigācija - Ievads lietotņu programmēšana.md",
+    "Kursi (papildus)/OOP vispārīgi/Navigācija - OOP vispārīgi.md",
+    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
+    "Web/HTML/Navigācija - HTML.md",
+    "Web/Vue_js/Navigācija - Vue.js.md",
+    "Web/Tailwind kurss/Navigācija - Tailwind.md",
+    "Web/Flexbox/Navigācija - Flexbox.md",
+    "Web/HTML un CSS/Navigācija - HTML un CSS (2. daļa) strukturēts saturs.md",
+    "Programmēšanas valodas/Java (viss)/Java OOP/Navigācija - Java OOP.md",
+    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
+    "Web",
+    "Programmēšanas valodas/Java (viss)",
+    "Programmēšanas valodas/JavaScript (viss)",
+    "Programmēšanas valodas",
+    "Resursi/portainer.jpg",
+    "Kursi (akadēmija)/Devops un mikroservisi",
+    "Resursi/Pasted image 20250922220256.png",
+    "Resursi/2e96e127f9f8c7_1440.png",
+    "Resursi/c1e6c40e30136af2.gif",
+    "Resursi/df69881d07b064d0.gif",
+    "Resursi/4d191637aaecf374_1440.png",
+    "Resursi/7f95dd836a249cdc_1440.png",
+    "Programmēšanas valodas/Kotlin/Add images to your Android app",
+    "Resursi/Pasted image 20250921120653.png",
+    "Resursi/Pasted image 20250921120249.png",
+    "Resursi/Pasted image 20250921115150.png",
+    "Programmēšanas valodas/Kotlin/Build a basic layout",
+    "Programmēšanas valodas/Kotlin/Pirmā android programma",
+    "Kursi (akadēmija)/Back-end NET/Code First",
+    "Programmēšanas valodas/Kotlin/Ievads"
+  ]
+}
