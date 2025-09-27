@@ -15,7 +15,7 @@ Vienkārši priekš atribūtiem izmanto pieejas modifikatoru `private`.
 ### ⇄ Saistības
 
 
-Iepriekšēja lapa >>> [[Navigācija - Modulis 2]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Navigācija - Modulis 2]]
 Nākama lapa >>> [[Mantošana ievads]]
 
 ---

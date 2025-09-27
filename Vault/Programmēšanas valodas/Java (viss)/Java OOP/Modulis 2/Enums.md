@@ -27,6 +27,6 @@ Rank a = Rank.SOLDIER;
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Ieliktas klases (Inner Classes)]]
-Nākama lapa >>> [[Navigācija - Modulis 2]]
+Nākama lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Navigācija - Modulis 2]]
 
 ---

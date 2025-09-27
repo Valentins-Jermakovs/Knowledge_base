@@ -1,6 +1,6 @@
 ___
 
-❚ **Tagi:** #šabloni
+❚ **Tagi:** #kotlin 
 
 ---
 ### ⬡ Saturs
@@ -10,6 +10,6 @@ ___
 |      |        |
 
 ---
-### :LiStepBack: Atpakaļ: [[Zināšanu Bāze]]
+### :LiStepBack: Atpakaļ: [[Navigācija - Kotlin]]
 
 ___

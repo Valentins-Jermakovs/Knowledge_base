@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "581b2701f8f76b87",
+        "id": "8b3601246a0877d2",
         "type": "tabs",
         "children": [
           {
@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Navigācija - Komponenšu noformēšana.md",
+                "file": "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navigācija - Komponenšu noformēšana"
-            }
-          },
-          {
-            "id": "93eca475010fb765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Row konteineris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Row konteineris"
-            }
-          },
-          {
-            "id": "9af91972805ea728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Column konteineris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Column konteineris"
+              "title": "Navigācija - Modulis 2"
             }
           },
           {
@@ -60,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,6 +182,12 @@
   },
   "active": "13cad629b2f32292",
   "lastOpenFiles": [
+    "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
+    "Zināšanu Bāze.md",
+    "Šabloni/Šablons 3 - Navigācija.md",
+    "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
+    "Programmēšanas valodas/Java (viss)/Java OOP/Navigācija - Java OOP.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Navigācija - Komponenšu noformēšana.md",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Row konteineris.md",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Column konteineris.md",
@@ -219,11 +197,9 @@
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Teksta noformēšana.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Add images to your Android app/Navigācija - Add images to your Android app.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1.md",
-    "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Build a basic layout/Teksta elementu centrēšana un padding.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Build a basic layout/Navigācija - Build a basic layout.md",
     "šablons.md",
-    "Zināšanu Bāze.md",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Attēla noformēšana.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Pirmā android programma/Navigācija - Pirmā android programma.md",
     "Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Navigācija - Ievads.md",
@@ -235,9 +211,6 @@
     "Programmēšanas valodas/Kotlin/Modulis 1",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Programmas konteinerizācija.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Dockerfile izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/requirements.txt faila izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Šablona izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Projekta pieslēgšana pie DB.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide",
     "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati",
     "Kursi (akadēmija)/Devops un mikroservisi/Ievads",
@@ -246,7 +219,6 @@
     "Programmēšanas valodas/JavaScript (viss)",
     "Programmēšanas valodas",
     "Resursi/portainer.jpg",
-    "Kursi (akadēmija)/Devops un mikroservisi",
     "Resursi/Pasted image 20250922220256.png",
     "Resursi/2e96e127f9f8c7_1440.png",
     "Resursi/c1e6c40e30136af2.gif",
