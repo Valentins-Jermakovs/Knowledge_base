@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zināšanu Bāze.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zināšanu Bāze"
-            }
-          },
-          {
-            "id": "f70cb900244b7534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kursi (akadēmija)/Devops un mikroservisi/Docker desktop instalācija.md",
+                "file": "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker desktop instalācija"
+              "title": "Navigācija - Devops un mikroservisi"
             }
           },
           {
-            "id": "5d18d51218fba1ae",
+            "id": "e83f0f06292e43ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Navigācija - Flask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Navigācija - Flask"
+            }
+          },
+          {
+            "id": "e32cbb284ab7c2ed",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,7 +45,8 @@
               "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +66,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -193,34 +194,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33e8c0705a0fca39",
+  "active": "e32cbb284ab7c2ed",
   "lastOpenFiles": [
-    "Kursi (akadēmija)/Devops un mikroservisi/Docker desktop instalācija.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Navigācija - Flask.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Programmas konteinerizācija.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Dockerfile izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/requirements.txt faila izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Šablona izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Projekta pieslēgšana pie DB.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Projekta izveide (bibliotēku instalācija).md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/venv izveidošana.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide",
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati/Navigācija - Docker pamati.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati/Tīkla izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati/phpMyAdmin konteinera izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati/MySQL konteinera izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Ievads/Navigācija - Ievads.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati",
+    "Kursi (akadēmija)/Devops un mikroservisi/Ievads",
     "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
     "Kursi (akadēmija)/Navigācija - Kursi.md",
     "Zināšanu Bāze.md",
+    "Kursi (akadēmija)/Back-end Python/Anaconda Prompt (pamata komandas).md",
+    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Ievads/Docker desktop instalācija.md",
     "Kursi (akadēmija)/Back-end NET/DB pieslēgšana pie projekta.md",
     "Kursi (akadēmija)/Back-end NET/Navigācija - back-end NET.md",
     "Programmēšanas valodas/C Sharp strukturēts/Sintakses pamati un konsoles izvads/Konsoles izvads.md",
     "Web/Navigācija - Web.md",
     "Kursi (papildus)/Navigācija - Kursi (papildus).md",
     "Kursi (papildus)/C Sharp/Navigācija - C Sharp.md",
-    "Kursi (papildus)/Python/Navigācija - Python.md",
-    "Kursi (papildus)/CSS/Navigācija - HTML un CSS.md",
-    "Kursi (papildus)/SQL/Navigācija - SQL.md",
-    "Kursi (akadēmija)/SQL strukturēts/Navigācija - SQL strukturēts.md",
-    "Kursi (papildus)/NoSQL DB/Navigācija - NoSQL DB.md",
-    "Kursi (papildus)/Ievads lietotņu programmēšana C_sharp/Navigācija - Ievads lietotņu programmēšana.md",
-    "Kursi (papildus)/OOP vispārīgi/Navigācija - OOP vispārīgi.md",
-    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
-    "Web/HTML/Navigācija - HTML.md",
-    "Web/Vue_js/Navigācija - Vue.js.md",
-    "Web/Tailwind kurss/Navigācija - Tailwind.md",
-    "Web/Flexbox/Navigācija - Flexbox.md",
-    "Web/HTML un CSS/Navigācija - HTML un CSS (2. daļa) strukturēts saturs.md",
-    "Programmēšanas valodas/Java (viss)/Java OOP/Navigācija - Java OOP.md",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
     "Web",
     "Programmēšanas valodas/Java (viss)",
     "Programmēšanas valodas/JavaScript (viss)",
@@ -237,9 +241,6 @@
     "Resursi/Pasted image 20250921120653.png",
     "Resursi/Pasted image 20250921120249.png",
     "Resursi/Pasted image 20250921115150.png",
-    "Programmēšanas valodas/Kotlin/Build a basic layout",
-    "Programmēšanas valodas/Kotlin/Pirmā android programma",
-    "Kursi (akadēmija)/Back-end NET/Code First",
-    "Programmēšanas valodas/Kotlin/Ievads"
+    "Programmēšanas valodas/Kotlin/Build a basic layout"
   ]
 }

@@ -10,6 +10,7 @@ ___
 Links uz dockeru: [Docker Desktop: The #1 Containerization Tool for Developers \| Docker](https://www.docker.com/products/docker-desktop/)
 
 `Docker desktop` priekš linux >>> [Fedora \| Docker Docs](https://docs.docker.com/desktop/setup/install/linux/fedora/)
+Papildus iestatjumi priek linux >>> [Sign in \| Docker Docs](https://docs.docker.com/desktop/setup/sign-in/#credentials-management-for-linux-users)
 
 ---
 ### ⇄ Saistības

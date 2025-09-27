@@ -7,7 +7,7 @@ ___
 
 | Tēma                           | Adrese                                          |
 | ------------------------------ | ----------------------------------------------- |
-| Ievads                         | [[Navigācija - Ievads]]                         |
+| Ievads                         | [[Programmēšanas valodas/Kotlin/Ievads/Navigācija - Ievads]]                         |
 | Pirmā android programma        | [[Navigācija - Pirmā android programma]]        |
 | Build a basic layout           | [[Navigācija - Build a basic layout]]           |
 | Add images to your Android app | [[Navigācija - Add images to your Android app]] |

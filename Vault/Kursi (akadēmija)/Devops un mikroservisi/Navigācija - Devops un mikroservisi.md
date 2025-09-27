@@ -3,14 +3,13 @@ ___
 ❚ **Tagi:** #devops
 
 ---
-### ⬡ Saturs:
+### ⬡ Saturs
 
-| Tēma                                           | Adrese                                             |
-| ---------------------------------------------- | -------------------------------------------------- |
-| Docker desktop instalācija                     | [[Docker desktop instalācija]]                     |
-| Portainer io instalācija                       | [[Portainer io instalācija]]                       |
-| MySQL instalācija                              | [[MySQL instalācija]]                              |
-| phpMyAdmin instalācija un savienošana ar MySQL | [[phpMyAdmin instalācija un savienošana ar MySQL]] |
+| Temats                   | Adrese                                                                                       |
+| ------------------------ | -------------------------------------------------------------------------------------------- |
+| Ievads                   | [[Kursi (akadēmija)/Devops un mikroservisi/Ievads/Navigācija - Ievads\|Navigācija - Ievads]] |
+| Docker pamati            | [[Navigācija - Docker pamati]]                                                               |
+| Flask programmas izveide | [[Navigācija - Flask]]                                                                       |
 
 ---
 ### :LiStepBack: Atpakaļ: [[Navigācija - Kursi (akadēmija)]]
