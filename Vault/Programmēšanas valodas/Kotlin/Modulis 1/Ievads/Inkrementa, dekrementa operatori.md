@@ -15,7 +15,7 @@ Standarta operatori palielināsānai, samazināšanai par 1:
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Mainīgo definēšana|Mainīgo definēšana]]
-Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Komentāri|Komentāri]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Mainīgo definēšana|Mainīgo definēšana]]
+Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Komentāri|Komentāri]]
 
 ---

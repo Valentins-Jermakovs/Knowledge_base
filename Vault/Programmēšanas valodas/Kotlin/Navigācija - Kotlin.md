@@ -5,13 +5,10 @@ ___
 ---
 ### ⬡ Saturs:
 
-| Tēma                           | Adrese                                          |
-| ------------------------------ | ----------------------------------------------- |
-| Ievads                         | [[Programmēšanas valodas/Kotlin/Ievads/Navigācija - Ievads]]                         |
-| Pirmā android programma        | [[Navigācija - Pirmā android programma]]        |
-| Build a basic layout           | [[Navigācija - Build a basic layout]]           |
-| Add images to your Android app | [[Navigācija - Add images to your Android app]] |
-
+| Tēma                   | Adrese                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| Modulis 1              | [[Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1\|Navigācija - Modulis 1]] |
+| Komponenšu noformēšana | [[Navigācija - Komponenšu noformēšana]]                                                    |
 
 Links uz vietni: [Android Basics with Compose course  \|  Android Developers](https://developer.android.com/courses/android-basics-compose/course?authuser=1)
 

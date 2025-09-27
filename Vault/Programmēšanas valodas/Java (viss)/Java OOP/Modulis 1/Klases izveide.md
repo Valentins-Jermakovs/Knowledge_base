@@ -25,7 +25,7 @@ Sākumā iet pieejas modifikators `public`, vārds `class` un nosaukums.
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Navigācija - Modulis 1]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 1/Navigācija - Modulis 1]]
 Nākama lapa >>> [[Objekta veidošana]]
 
 ---

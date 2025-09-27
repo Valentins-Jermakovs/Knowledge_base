@@ -7,12 +7,12 @@ ___
 
 | Tēma                              | Adrese                                                   |
 | --------------------------------- | -------------------------------------------------------- |
-| Hello world!                      | [[Programmēšanas valodas/Kotlin/Ievads/Pirmā programma\|Pirmā programma]]       |
+| Hello world!                      | [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Pirmā programma\|Pirmā programma]]       |
 | Funkcijas definēšana `main`       | [[Funkcijas definēšana]]                                 |
-| Datu tipi                         | [[Programmēšanas valodas/Kotlin/Ievads/Datu tipi\|Datu tipi]]                   |
-| Mainīgo definēšana                | [[Programmēšanas valodas/Kotlin/Ievads/Mainīgo definēšana\|Mainīgo definēšana]] |
+| Datu tipi                         | [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Datu tipi\|Datu tipi]]                   |
+| Mainīgo definēšana                | [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Mainīgo definēšana\|Mainīgo definēšana]] |
 | Inkrementa, dekrementa operatori  | [[Inkrementa, dekrementa operatori]]                     |
-| Komentāri                         | [[Programmēšanas valodas/Kotlin/Ievads/Komentāri\|Komentāri]]                   |
+| Komentāri                         | [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Komentāri\|Komentāri]]                   |
 | Funkcija, kas atgriež vērtību     | [[Funkcija, kas atgriež vērtību]]                        |
 | Funkcija ar parametru             | [[Funkcija ar parametru]]                                |
 | Funkcija ar vairākiem parametriem | [[Funkcija ar vairākiem parametriem]]                    |
@@ -20,6 +20,6 @@ ___
 | Noklusējuma argumenti             | [[Noklusējuma argumenti]]                                |
 
 ---
-### :LiStepBack: Atpakaļ: [[Navigācija - Kotlin]]
+### :LiStepBack: Atpakaļ: [[Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1|Navigācija - Modulis 1]]
 
 ___

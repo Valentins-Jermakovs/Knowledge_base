@@ -40,7 +40,7 @@ fun main() {
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Datu tipi|Datu tipi]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Datu tipi|Datu tipi]]
 Nākama lapa >>> [[Inkrementa, dekrementa operatori]]
 
 ---

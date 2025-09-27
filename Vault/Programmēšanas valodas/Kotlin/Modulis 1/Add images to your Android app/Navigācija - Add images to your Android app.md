@@ -17,6 +17,6 @@ ___
 | Teksta izvietošana resursu failā    | [[Teksta izvietošana resursu failā]]    |
 
 ---
-### :LiStepBack: Atpakaļ: [[Navigācija - Kotlin]]
+### :LiStepBack: Atpakaļ: [[Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1|Navigācija - Modulis 1]]
 
 ___

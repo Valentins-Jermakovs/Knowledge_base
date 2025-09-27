@@ -19,6 +19,6 @@ ___
 | Teksta elementu centrēšana un padding          | [[Teksta elementu centrēšana un padding]]          |
 
 ---
-### :LiStepBack: Atpakaļ: [[Navigācija - Kotlin]]
+### :LiStepBack: Atpakaļ: [[Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1|Navigācija - Modulis 1]]
 
 ___

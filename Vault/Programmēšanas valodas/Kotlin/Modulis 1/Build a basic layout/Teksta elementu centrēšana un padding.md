@@ -84,6 +84,6 @@ Text(
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Teksta elementu izvietošana kolonnā]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1|Navigācija - Modulis 1]]
 
 ---

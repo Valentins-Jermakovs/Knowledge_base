@@ -7,7 +7,7 @@ ___
 
 | Saturs    | Adrese                     |
 | --------- | -------------------------- |
-| Modulis 1 | [[Navigācija - Modulis 1]] |
+| Modulis 1 | [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 1/Navigācija - Modulis 1]] |
 | Modulis 2 | [[Navigācija - Modulis 2]] |
 | Modulis 3 | [[Navigācija - Modulis 3]] |
 

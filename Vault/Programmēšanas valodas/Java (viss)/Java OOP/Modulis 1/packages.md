@@ -38,6 +38,6 @@ Ja vēlies importēt visas klases, kas atrodas tajā `package`, tad šajā piem�
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[packages]]
-Nākama lapa >>> [[Navigācija - Modulis 1]]
+Nākama lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 1/Navigācija - Modulis 1]]
 
 ---

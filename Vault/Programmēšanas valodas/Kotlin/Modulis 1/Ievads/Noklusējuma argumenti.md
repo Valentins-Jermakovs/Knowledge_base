@@ -19,6 +19,6 @@ fun birthdayGreeting(name: String = "Rover", age: Int): String {
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Named argumenti]]
-Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Navigācija - Ievads]]
+Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Navigācija - Ievads]]
 
 ---

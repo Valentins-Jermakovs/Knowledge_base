@@ -19,6 +19,6 @@ ___
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Funkcijas definēšana]]
-Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Mainīgo definēšana|Mainīgo definēšana]]
+Nākama lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Mainīgo definēšana|Mainīgo definēšana]]
 
 ---

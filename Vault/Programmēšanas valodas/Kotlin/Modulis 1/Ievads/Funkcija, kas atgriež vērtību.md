@@ -29,7 +29,7 @@ fun birthdayGreeting(): Unit {
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Ievads/Komentāri|Komentāri]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Komentāri|Komentāri]]
 Nākama lapa >>> [[Funkcija ar parametru]]
 
 ---
