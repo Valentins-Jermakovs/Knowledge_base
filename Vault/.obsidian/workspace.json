@@ -13,68 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
+                "file": "Zināšanu Bāze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navigācija - Modulis 2"
-            }
-          },
-          {
-            "id": "2ac450814f2f1041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Kotlin fundamentals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navigācija - Kotlin fundamentals"
-            }
-          },
-          {
-            "id": "13cad629b2f32292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 2/if, else if, else konstrukciju īsa pieraksta forma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "if, else if, else konstrukciju īsa pieraksta forma"
-            }
-          },
-          {
-            "id": "fd9c6299a68ce043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 2/when konstrukcijas īsa pieraksta forma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "when konstrukcijas īsa pieraksta forma"
-            }
-          },
-          {
-            "id": "46b78001e024554e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Zināšanu Bāze"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,35 +169,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "46b78001e024554e",
+  "active": "e32cbb284ab7c2ed",
   "lastOpenFiles": [
-    "Programmēšanas valodas/Kotlin/Modulis 2/when konstrukcijas īsa pieraksta forma.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Kotlin fundamentals.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Lambda izteikumi ar īso sintaksi.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/repeat() funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Funkcija, kas atgriež vērtību.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Funkcija kā datu tips.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Funkcijas ieraksts mainīgā.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Īpašību deleģēšana.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Pieejas modifikatori.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Virsklases un apakšklases.md",
+    "Resursi/Pasted image 20250928125551.png",
+    "Resursi/Pasted image 20250928125527.png",
+    "Resursi/Pasted image 20250928125352.png",
+    "Resursi/Pasted image 20250928125249.png",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Konstruktora definēšana.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Getteri un setteri.md",
+    "Resursi/Pasted image 20250928121849.png",
+    "Resursi/Pasted image 20250928121837.png",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Klases īpašību (lauku) veidošana.md",
+    "Resursi/Pasted image 20250928115804.png",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Klases metožu veidošana.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Klases eksemplāra veidošana.md",
+    "Resursi/Pasted image 20250928114845.png",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Klases definēšana.md",
+    "Resursi/Pasted image 20250928114528.png",
+    "Resursi/Pasted image 20250928114021.png",
+    "Programmēšanas valodas/Kotlin/Modulis 2/Darbs ar null vērtībām.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/when konstrukcijas īsa pieraksta forma.md",
+    "Programmēšanas valodas/Kotlin/Modulis 2/null vērtība.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/if, else if, else konstrukciju īsa pieraksta forma.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/when konstrukcija.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/if...else if...else.md",
     "Zināšanu Bāze.md",
     "Šabloni/Šablons 3 - Navigācija.md",
     "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
     "Programmēšanas valodas/Java (viss)/Java OOP/Navigācija - Java OOP.md",
     "Programmēšanas valodas/Kotlin/Modulis 2",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Navigācija - Komponenšu noformēšana.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Row konteineris.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Column konteineris.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Box konteineris.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Add images to your Android app/Layout Modifiers.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Modifier.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Teksta noformēšana.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Add images to your Android app/Navigācija - Add images to your Android app.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Build a basic layout/Teksta elementu centrēšana un padding.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Build a basic layout/Navigācija - Build a basic layout.md",
-    "šablons.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Attēla noformēšana.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Pirmā android programma/Navigācija - Pirmā android programma.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Navigācija - Ievads.md",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana",
     "Programmēšanas valodas/Kotlin/Modulis 1",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide",
@@ -259,16 +216,6 @@
     "Web",
     "Programmēšanas valodas/Java (viss)",
     "Programmēšanas valodas/JavaScript (viss)",
-    "Programmēšanas valodas",
-    "Resursi/portainer.jpg",
-    "Resursi/Pasted image 20250922220256.png",
-    "Resursi/2e96e127f9f8c7_1440.png",
-    "Resursi/c1e6c40e30136af2.gif",
-    "Resursi/df69881d07b064d0.gif",
-    "Resursi/4d191637aaecf374_1440.png",
-    "Resursi/7f95dd836a249cdc_1440.png",
-    "Resursi/Pasted image 20250921120653.png",
-    "Resursi/Pasted image 20250921120249.png",
-    "Resursi/Pasted image 20250921115150.png"
+    "Programmēšanas valodas"
   ]
 }

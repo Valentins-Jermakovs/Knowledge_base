@@ -27,6 +27,6 @@ fun main() {
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[if, else if, else konstrukciju īsa pieraksta forma]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[null vērtība]]
 
 ---
