@@ -24,6 +24,6 @@ Klase `Dog` manto klasi `Animal`. Atslēgvārds `extends` norāda uz mantošanu.
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Inkapsulācija]]
-Nākama lapa >>> [[Mantošana]]
+Nākama lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Mantošana]]
 
 ---

@@ -42,7 +42,7 @@ python manage.py migrate
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[šablons]]
+Iepriekšēja lapa >>> [[Navigācija - back-end python]]
 Nākama lapa >>> [[Jaunā projekta izveide]]
 
 ---

@@ -76,6 +76,6 @@ urlpatterns = [
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Skatu izveide]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Moduļa izveide]]
 
 ---

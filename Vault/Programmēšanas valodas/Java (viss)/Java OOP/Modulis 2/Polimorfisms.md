@@ -42,7 +42,7 @@ public static void main(String[ ] args) {
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Mantošana]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Mantošana]]
 Nākama lapa >>> [[Method Overriding]]
 
 ---

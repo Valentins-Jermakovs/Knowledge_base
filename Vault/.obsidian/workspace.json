@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zināšanu Bāze.md",
+                "file": "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zināšanu Bāze"
-            }
-          },
-          {
-            "id": "5230dc356f45e275",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Navigācija - Modulis 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,53 +169,53 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5230dc356f45e275",
+  "active": "e32cbb284ab7c2ed",
   "lastOpenFiles": [
-    "Zināšanu Bāze.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Modifier.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Navigācija - Komponenšu noformēšana.md",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana/Column konteineris.md",
     "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Navigācija - Modulis 1.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Kotlin fundamentals.md",
+    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
+    "Zināšanu Bāze.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Programmas konteinerizācija.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Portu tabulas.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Navigācija - Django programmas izveide.md",
+    "Resursi/Pasted image 20251005154540.png",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Programmas konteinerizācija.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Dockerfile izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/requirementstxt faila izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Navigācija - Flask.md",
+    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/requirements.txt faila izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Dockerfile izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Django Template Language.md",
+    "Kursi (akadēmija)/Back-end Python/Mantošana.md",
+    "Kursi (akadēmija)/Back-end Python/Šablona izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Moduļa izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Skata pieslēgšana, ceļa izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Moduļa izveide",
+    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
+    "Kursi (akadēmija)/Navigācija - Kursi.md",
+    "Kursi (papildus)/Python OOP/Kā izveidot klasi Python.md",
+    "Programmēšanas valodas/Python strukturēts/Navigācija - Python strukturēts.md",
+    "Kursi (akadēmija)/Back-end Python/Skatu izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Jaunā projekta izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Anaconda Prompt (pamata komandas).md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Kotlin fundamentals",
     "Programmēšanas valodas/Kotlin/Modulis 2/Lambda",
     "Programmēšanas valodas/Kotlin/Modulis 2/Klases",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Ievads/Docker desktop instalācija.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Ievads/Navigācija - Ievads.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
-    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
-    "Kursi (akadēmija)/Navigācija - Kursi.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Lambda/Lambda izteikumi ar īso sintaksi.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Lambda/repeat() funkcija.md",
-    "Programmēšanas valodas/Kotlin/Modulis 1/Ievads/Funkcija, kas atgriež vērtību.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Lambda/Funkcija kā datu tips.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Lambda/Funkcijas ieraksts mainīgā.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Īpašību deleģēšana.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Pieejas modifikatori.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Virsklases un apakšklases.md",
     "Resursi/Pasted image 20250928125551.png",
     "Resursi/Pasted image 20250928125527.png",
     "Resursi/Pasted image 20250928125352.png",
     "Resursi/Pasted image 20250928125249.png",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Konstruktora definēšana.md",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Getteri un setteri.md",
     "Resursi/Pasted image 20250928121849.png",
     "Resursi/Pasted image 20250928121837.png",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Klases īpašību (lauku) veidošana.md",
     "Resursi/Pasted image 20250928115804.png",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Klases/Klases metožu veidošana.md",
     "Resursi/Pasted image 20250928114845.png",
     "Resursi/Pasted image 20250928114528.png",
-    "Resursi/Pasted image 20250928114021.png",
     "Programmēšanas valodas/Kotlin/Modulis 2",
     "Programmēšanas valodas/Kotlin/Komponenšu noformēšana",
     "Programmēšanas valodas/Kotlin/Modulis 1",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide",
-    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati",
-    "Kursi (akadēmija)/Devops un mikroservisi/Ievads",
-    "Web"
+    "Kursi (akadēmija)/Devops un mikroservisi/Docker pamati"
   ]
 }

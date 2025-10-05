@@ -39,6 +39,6 @@ CMD ["app.py"]
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[requirements.txt faila izveide]]
-Nākama lapa >>> [[Programmas konteinerizācija]]
+Nākama lapa >>> [[Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Programmas konteinerizācija]]
 
 ---

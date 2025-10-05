@@ -63,6 +63,6 @@ def get_missions():
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Projekta izveide (bibliotēku instalācija)]]
-Nākama lapa >>> [[Šablona izveide]]
+Nākama lapa >>> [[Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Šablona izveide]]
 
 ---

@@ -25,7 +25,7 @@ Instalēt nepieciešamas paķetes, piem., `django`:
 conda install django
 ```
 
-Pāriet uz projekta direktoriju. To var izdarīt vienkārši, dfailu pārlukā iekopē ceļu un ielīmē to konsolē:
+Pāriet uz projekta direktoriju. To var izdarīt vienkārši, failu pārlukā iekopē ceļu un ielīmē to konsolē:
 
 ```
 cd ./ceļš_līdz_direktorijai

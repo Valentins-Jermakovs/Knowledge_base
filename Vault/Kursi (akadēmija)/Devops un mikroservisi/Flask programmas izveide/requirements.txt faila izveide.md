@@ -31,7 +31,7 @@ Werkzeug==3.1.3
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Šablona izveide]]
-Nākama lapa >>> [[Dockerfile izveide]]
+Iepriekšēja lapa >>> [[Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Šablona izveide]]
+Nākama lapa >>> [[Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Dockerfile izveide]]
 
 ---

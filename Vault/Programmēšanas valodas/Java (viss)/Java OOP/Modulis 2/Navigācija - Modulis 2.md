@@ -9,7 +9,7 @@ ___
 | ----------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Inkapsulācija                       | [[Inkapsulācija]]                                                                              |
 | Mantošana ievads                    | [[Mantošana ievads]]                                                                           |
-| Mantošana                           | [[Mantošana]]                                                                                  |
+| Mantošana                           | [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Mantošana]]                                                                                  |
 | Polimorfisms                        | [[Polimorfisms]]                                                                               |
 | Method Overriding                   | [[Method Overriding]]                                                                          |
 | Abstraktās klases                   | [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 2/Abstraktās klases\|Abstraktās klases]] |

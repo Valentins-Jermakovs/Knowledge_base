@@ -20,7 +20,7 @@ Neliela instrukcija, lai palaist pašu projektu:
 
 Lai izveidot pašu skatu:
 
-1. izveodto projektā failu `views.py`;
+1. izveidot projektā failu `views.py`;
 2. pieslēgt `HttpResponse`.
 
 Zemāk ir koda paraugs failam `views.py`:
