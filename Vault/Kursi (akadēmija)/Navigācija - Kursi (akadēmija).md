@@ -10,6 +10,7 @@ ___
 | Back-end NET (2. kurss)                  | [[Navigācija - back-end NET]]                  |
 | Back-end Python (2. kurss)               | [[Navigācija - back-end python]]               |
 | Devops un mikroservisi (2. kurss)        | [[Navigācija - Devops un mikroservisi]]        |
+| Darba drošība                            | [[Navigācija - Darba drošība]]                 |
 | OOP vispārīgi (1. kurss)                 | [[Navigācija - OOP vispārīgi]]                 |
 | Ievads lietotņu programmēšanā (1. kurss) | [[Navigācija - Ievads lietotņu programmēšana]] |
 | NoSQL datu bāzes (1. kurss)              | [[Navigācija - NoSQL DB]]                      |
