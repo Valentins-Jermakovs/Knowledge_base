@@ -9,8 +9,9 @@ ___
 | --------- | ------------- |
 | Lekcija 1 | [[Lekcija 1]] |
 | Lekcija 2 | [[Lekcija 2]] |
+| Lekcija 3 |               |
 
 ---
-### :LiStepBack: Atpakaļ: [[Zināšanu Bāze]]
+### :LiStepBack: Atpakaļ: [[Navigācija - Kursi (akadēmija)]]
 
 ___

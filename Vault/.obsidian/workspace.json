@@ -8,13 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9741a3f964c0cab6",
+            "id": "397ad393400b6664",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Kursi (akadēmija)/Darba drošība/Lekcija 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lekcija 1"
+            }
+          },
+          {
+            "id": "cfe1d4b2cc5df8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kursi (akadēmija)/Darba drošība/Lekcija 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lekcija 3"
             }
           }
         ]
@@ -165,14 +183,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9741a3f964c0cab6",
+  "active": "397ad393400b6664",
   "lastOpenFiles": [
-    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
-    "Kursi (akadēmija)/Navigācija - Kursi.md",
-    "Zināšanu Bāze.md",
-    "Kursi (akadēmija)/Darba drošība/Navigācija - Darba drošība.md",
     "Kursi (akadēmija)/Darba drošība/Lekcija 2.md",
     "Kursi (akadēmija)/Darba drošība/Lekcija 1.md",
+    "Kursi (akadēmija)/Darba drošība/Navigācija - Darba drošība.md",
+    "Kursi (akadēmija)/Darba drošība/Lekcija 3.md",
+    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
+    "Kursi (akadēmija)/Navigācija - Kursi.md",
+    "Zināšanu Bāze.md",
+    "Kursi (papildus)/Python/Modulis 3/Saraksta metodes.md",
+    "Programmēšanas valodas/Python strukturēts/Navigācija - Teksta apstrāde.md",
+    "Programmēšanas valodas/Python strukturēts/Navigācija - Python strukturēts.md",
+    "Programmēšanas valodas/Python strukturēts/Navigācija - Kolekcijas un masīvi.md",
+    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
     "Kursi (akadēmija)/Darba drošība",
     "Programmēšanas valodas/Kotlin/Modulis 2/Programma tip-calculator.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/random metode.md",
@@ -185,16 +210,9 @@
     "Programmēšanas valodas/Kotlin/Modulis 2/Lambda/Funkcija kā datu tips.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Globālie mainīgie.md",
     "Programmēšanas valodas/Kotlin/Без названия.md",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Programmas konteinerizācija.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Portu tabulas.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Navigācija - Django programmas izveide.md",
     "Resursi/Pasted image 20251005154540.png",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Programmas konteinerizācija.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Dockerfile izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/requirementstxt faila izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide/Navigācija - Flask.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide",
     "Kursi (akadēmija)/Back-end Python/Moduļa izveide",
     "Programmēšanas valodas/Kotlin/Modulis 2/Kotlin fundamentals",
