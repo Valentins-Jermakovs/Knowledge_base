@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Navigācija - Modulis 2"
             }
-          },
-          {
-            "id": "d0179f6a5bd96643",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5029602050781
+    "width": 252.50296020507812
   },
   "right": {
     "id": "d8d6d7cd8f8414bc",
@@ -151,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Navigācija - Modulis 2"
             }
           }
         ],
@@ -164,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 234.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,14 +170,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0179f6a5bd96643",
+  "active": "08fb49148ce78688",
   "lastOpenFiles": [
+    "Kursi (akadēmija)/Back-end NET/Navigācija - back-end NET.md",
+    "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/Navigācija - GitHub, LINQ un Fluent API,Data Annotation.md",
+    "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/GitHub.md",
+    "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/LINQ.md",
+    "Resursi/Pasted image 20251008150350.png",
+    "Resursi/Pasted image 20251008150321.png",
+    "Resursi/Pasted image 20251008150252.png",
+    "Resursi/Pasted image 20251008150210.png",
+    "Resursi/Pasted image 20251008150043.png",
+    "Resursi/Pasted image 20251008150001.png",
+    "Resursi/Pasted image 20251008145932.png",
+    "Prezentācijas/5. LINQ.pdf",
+    "Prezentācijas/4. Git.pdf",
+    "Prezentācijas",
+    "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation",
+    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
+    "Kursi (akadēmija)/Navigācija - Kursi.md",
+    "Zināšanu Bāze.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Navigācija - Modulis 2.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Button papildinājums.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Button.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Klaviatūras pogu iestatījumi.md",
     "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
-    "Zināšanu Bāze.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/ScrollVertical.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Programma tip-calculator.md",
     "Programmēšanas valodas/Kotlin/Modulis 2/Switcher.md",
@@ -196,18 +203,11 @@
     "Kursi (akadēmija)/Back-end NET/Code First/Navigācija - Code first.md",
     "Kursi (akadēmija)/Back-end NET/Darbs ar DB, tabulu ierakstu izvads.md",
     "Kursi (akadēmija)/Back-end NET/DB pieslēgšana pie projekta.md",
-    "Kursi (akadēmija)/Back-end NET/Navigācija - back-end NET.md",
-    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
-    "Kursi (akadēmija)/Navigācija - Kursi.md",
     "Kursi (akadēmija)/Darba drošība/Lekcija 1.md",
     "Kursi (akadēmija)/Darba drošība/Lekcija 3.md",
     "Kursi (akadēmija)/Darba drošība/Lekcija 2.md",
     "Kursi (akadēmija)/Darba drošība/Navigācija - Darba drošība.md",
     "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
-    "Kursi (papildus)/Python/Modulis 3/Saraksta metodes.md",
-    "Programmēšanas valodas/Python strukturēts/Navigācija - Teksta apstrāde.md",
-    "Programmēšanas valodas/Python strukturēts/Navigācija - Python strukturēts.md",
-    "Programmēšanas valodas/Python strukturēts/Navigācija - Kolekcijas un masīvi.md",
     "Kursi (akadēmija)/Darba drošība",
     "Resursi/Pasted image 20251005154540.png",
     "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide",
@@ -216,17 +216,6 @@
     "Programmēšanas valodas/Kotlin/Modulis 2/Lambda",
     "Programmēšanas valodas/Kotlin/Modulis 2/Klases",
     "Resursi/Pasted image 20250928125551.png",
-    "Resursi/Pasted image 20250928125527.png",
-    "Resursi/Pasted image 20250928125352.png",
-    "Resursi/Pasted image 20250928125249.png",
-    "Resursi/Pasted image 20250928121849.png",
-    "Resursi/Pasted image 20250928121837.png",
-    "Resursi/Pasted image 20250928115804.png",
-    "Resursi/Pasted image 20250928114845.png",
-    "Resursi/Pasted image 20250928114528.png",
-    "Programmēšanas valodas/Kotlin/Modulis 2",
-    "Programmēšanas valodas/Kotlin/Komponenšu noformēšana",
-    "Programmēšanas valodas/Kotlin/Modulis 1",
-    "Kursi (akadēmija)/Devops un mikroservisi/Flask programmas izveide"
+    "Resursi/Pasted image 20250928125527.png"
   ]
 }
