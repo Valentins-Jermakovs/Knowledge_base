@@ -103,6 +103,6 @@ Darbības princips ir šāds:
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[random metode]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Switcher]]
 
 ---
