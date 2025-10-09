@@ -15,6 +15,8 @@ ___
 | Šablona izveide                      | [[Kursi (akadēmija)/Back-end Python/Šablona izveide\|Šablona izveide]] |
 | DTL (Django Template Language)       | [[Django Template Language]]                                           |
 | Mantošana                            | [[Kursi (akadēmija)/Back-end Python/Mantošana\|Mantošana]]             |
+| Lekcijas konspekts 1                 | [[Lekcijas konspekts 1]]                                               |
+| Tailwind CSS instalācija             |                                                                        |
 
 `requirements.txt` faila izveide >>>  [[requirementstxt faila izveide]]
 Projekta palaišana uz cita datora >>> [[Projekta palaišana uz cita datora]]

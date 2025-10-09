@@ -218,6 +218,6 @@ Rezultātā iegūstam šādu objektu:
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[GitHub]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Data Annotation]]
 
 ---

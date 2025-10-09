@@ -15,6 +15,7 @@ ___
 | Navigācija - Code first                      | [[Navigācija - Code first]]                                 |
 | GitHub, LINQ un Fluent API/Data Annotation   | [[Navigācija - GitHub, LINQ un Fluent API,Data Annotation]] |
 
+
 ---
 ### :LiStepBack: Atpakaļ: [[Navigācija - Kursi (akadēmija)]]
 

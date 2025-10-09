@@ -5,10 +5,12 @@ ___
 ---
 ### ⬡ Saturs
 
-| Tēma   | Adrese     |
-| ------ | ---------- |
-| GitHub | [[GitHub]] |
-| LINQ   | [[LINQ]]   |
+| Tēma            | Adrese              |
+| --------------- | ------------------- |
+| GitHub          | [[GitHub]]          |
+| LINQ            | [[LINQ]]            |
+| Data Annotation | [[Data Annotation]] |
+| Fluent API      | [[Fluent API]]      |
 
 ---
 ### :LiStepBack: Atpakaļ: [[Navigācija - back-end NET]]

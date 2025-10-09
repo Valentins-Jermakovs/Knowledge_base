@@ -119,6 +119,6 @@ path("calendar/", zenergy_calendar_view, name="zenergy-calendar"), # /zenergy/ca
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Django Template Language]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Lekcijas konspekts 1]]
 
 ---
