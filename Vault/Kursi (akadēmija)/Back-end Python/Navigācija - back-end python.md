@@ -16,6 +16,9 @@ ___
 | DTL (Django Template Language)       | [[Django Template Language]]                                           |
 | Mantošana                            | [[Kursi (akadēmija)/Back-end Python/Mantošana\|Mantošana]]             |
 
+`requirements.txt` faila izveide >>>  [[requirementstxt faila izveide]]
+Projekta palaišana uz cita datora >>> [[Projekta palaišana uz cita datora]]
+
 ---
 ### :LiStepBack: Atpakaļ: [[Navigācija - Kursi (akadēmija)]]
 
