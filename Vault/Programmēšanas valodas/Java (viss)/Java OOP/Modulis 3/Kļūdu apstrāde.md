@@ -20,7 +20,7 @@ try {
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Navigācija - Modulis 3]]
+Iepriekšēja lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 3/Navigācija - Modulis 3]]
 Nākama lapa >>> [[Threads]]
 
 ---

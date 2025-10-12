@@ -49,6 +49,6 @@ public class IteratorDemo {
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Kārtošana (Sorting List)]]
-Nākama lapa >>> [[Navigācija - Modulis 3]]
+Nākama lapa >>> [[Programmēšanas valodas/Java (viss)/Java OOP/Modulis 3/Navigācija - Modulis 3]]
 
 ---
