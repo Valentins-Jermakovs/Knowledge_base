@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zināšanu Bāze.md",
+                "file": "Kursi (akadēmija)/Back-end Python/Tailwind CSS instalācija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zināšanu Bāze"
+              "title": "Tailwind CSS instalācija"
+            }
+          },
+          {
+            "id": "fe6f49086c5e6462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carbon Design System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carbon Design System"
             }
           }
         ]
@@ -172,6 +186,28 @@
   },
   "active": "cb7a5f794cfe6ef4",
   "lastOpenFiles": [
+    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
+    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
+    "Kursi (akadēmija)/Navigācija - Kursi.md",
+    "Zināšanu Bāze.md",
+    "Kursi (akadēmija)/Back-end Python/Moduļa izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Tailwind CSS instalācija.md",
+    "Kursi (akadēmija)/Back-end Python/Lekcijas konspekts 1.md",
+    "Kursi (akadēmija)/Back-end Python/Mantošana.md",
+    "Kursi (akadēmija)/Back-end Python/Django Template Language.md",
+    "Kursi (akadēmija)/Back-end Python/Šablona izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Skata pieslēgšana, ceļa izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Skatu izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Jaunā projekta izveide.md",
+    "Kursi (akadēmija)/Back-end Python/Anaconda Prompt (pamata komandas).md",
+    "Kursi (papildus)/Python OOP/Kā izveidot klasi Python.md",
+    "Programmēšanas valodas/Python strukturēts/Navigācija - Python strukturēts.md",
+    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Programmas konteinerizācija.md",
+    "Carbon Design System.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Dockerfile izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Navigācija - Django programmas izveide.md",
+    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
     "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/Navigācija - GitHub, LINQ un Fluent API,Data Annotation.md",
     "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/Data Annotation.md",
     "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/Fluent API.md",
@@ -179,31 +215,10 @@
     "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation/LINQ.md",
     "Resursi/Pasted image 20251009200436.png",
     "Resursi/Pasted image 20251009194640.png",
-    "Kursi (akadēmija)/Back-end NET/Navigācija - back-end NET.md",
-    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
-    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
-    "Kursi (akadēmija)/Back-end Python/Tailwind CSS instalācija.md",
     "Resursi/Pasted image 20251009192836.png",
-    "Kursi (akadēmija)/Back-end Python/Lekcijas konspekts 1.md",
-    "Kursi (akadēmija)/Back-end Python/Mantošana.md",
     "Resursi/Pasted image 20251009191737.png",
     "Resursi/static global.png",
     "Resursi/celu pieslegsana.png",
-    "Kursi (akadēmija)/Navigācija - Kursi.md",
-    "Zināšanu Bāze.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Programmas konteinerizācija.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Dockerfile izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/Navigācija - Django programmas izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide/requirementstxt faila izveide.md",
-    "Kursi (akadēmija)/Devops un mikroservisi/Navigācija - Devops un mikroservisi.md",
-    "Kursi (papildus)/Python/Papildus/split() metode.md",
-    "Programmēšanas valodas/Python strukturēts/Navigācija - Teksta apstrāde.md",
-    "Programmēšanas valodas/Python strukturēts/Navigācija - Python strukturēts.md",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
-    "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
-    "Programmēšanas valodas/C Sharp strukturēts/Mainīgie un datu tipi/Datu konvertācija.md",
-    "Programmēšanas valodas/C Sharp strukturēts/Navigācija - C Sharp strukturēts.md",
-    "Kursi (akadēmija)/Back-end Python/Projekta palaišana uz cita datora.md",
     "Resursi/Pasted image 20251008150350.png",
     "Resursi/Pasted image 20251008150321.png",
     "Resursi/Pasted image 20251008150252.png",

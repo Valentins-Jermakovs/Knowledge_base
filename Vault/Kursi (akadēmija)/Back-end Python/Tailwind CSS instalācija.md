@@ -45,6 +45,12 @@ Piemērs, kā pieslēgt `tailwind` no `theme` kataloga pie kāda cita moduļa š
 
 ![[Pasted image 20251009192836.png]]
 
+Lai palaist projektu ar `tailwind`:
+
+```
+python manage.py tailwind dev
+```
+
 ---
 ### ⇄ Saistības
 
