@@ -33,7 +33,7 @@ fun main() {
 ---
 ### ⇄ Saistības
 
-Iepriekšēja lapa >>> [[Navigācija - More Kotlin fundamentals]]
+Iepriekšēja lapa >>> [[Navigācija - Generics, objects and extensions]]
 Nākama lapa >>> [[Enum klases]]
 
 ---

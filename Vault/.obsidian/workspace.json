@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navigācija - Kotlin"
-            }
-          },
-          {
-            "id": "608ca15e820a316b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Navigācija - Modulis 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navigācija - Modulis 3"
-            }
-          },
-          {
-            "id": "17e5c1a94e5b565f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Navigācija - More Kotlin fundamentals.md",
                 "mode": "source",
                 "source": false
@@ -50,49 +22,49 @@
             }
           },
           {
-            "id": "ab05726d00481a7d",
+            "id": "a0419e21b2731c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Scope funkcijas.md",
+                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Generic klases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope funkcijas"
+              "title": "Generic klases"
             }
           },
           {
-            "id": "3a99eca717848e8b",
+            "id": "f50d67b646c9ba3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Interfeisi.md",
+                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/fold funkcija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interfeisi"
+              "title": "fold funkcija"
             }
           },
           {
-            "id": "215d8729252192d3",
+            "id": "e57275405c79fba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Klases paplašināšana.md",
+                "file": "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/sortedBy funkcija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Klases paplašināšana"
+              "title": "sortedBy funkcija"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,36 +213,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "17e5c1a94e5b565f",
+  "active": "a0419e21b2731c1a",
   "lastOpenFiles": [
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Scope funkcijas.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Interfeisi.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Klases paplašināšana.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Objekts kompanjons.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Navigācija - Generics, objects and extensions.md",
     "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Navigācija - More Kotlin fundamentals.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Singleton objekts.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Data klases.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Enum klases.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/Navigācija - Higher-order functions with collections.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/fold funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/sortedBy funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/groupBy funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/filter funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/map funkcija.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections/forEach and string templates with lambdas.md",
+    "Carbon Design System.md",
+    "Zināšanu Bāze.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Higher-order functions with collections",
     "Programmēšanas valodas/Kotlin/Modulis 3/Navigācija - Modulis 3.md",
-    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generic klases.md",
     "Programmēšanas valodas/Kotlin/Navigācija - Kotlin.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections/Navigācija - Collections.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections/Sets.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections/Map collection.md",
+    "Resursi/Pasted image 20251013130046.png",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections/Lists un MutableList.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Без названия.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections/Arrays.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Collections",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Scope funkcijas.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Interfeisi.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Klases paplašināšana.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Objekts kompanjons.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Singleton objekts.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Data klases.md",
+    "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin/Generics, objects and extensions/Enum klases.md",
     "Programmēšanas valodas/Kotlin/Modulis 3/Kotlin",
     "Programmēšanas valodas/Kotlin/Modulis 3",
-    "Programmēšanas valodas/Navigācija - Programmēšanas valodas.md",
-    "Zināšanu Bāze.md",
-    "Kursi (akadēmija)/Back-end Python/Tailwind CSS instalācija.md",
-    "Kursi (akadēmija)/Back-end Python/Navigācija - back-end python.md",
-    "Kursi (akadēmija)/Navigācija - Kursi (akadēmija).md",
-    "Kursi (akadēmija)/Navigācija - Kursi.md",
-    "Kursi (akadēmija)/Back-end Python/Moduļa izveide.md",
-    "Kursi (akadēmija)/Back-end Python/Lekcijas konspekts 1.md",
-    "Kursi (akadēmija)/Back-end Python/Mantošana.md",
-    "Kursi (akadēmija)/Back-end Python/Django Template Language.md",
-    "Kursi (akadēmija)/Back-end Python/Šablona izveide.md",
-    "Kursi (akadēmija)/Back-end Python/Skata pieslēgšana, ceļa izveide.md",
-    "Kursi (akadēmija)/Back-end Python/Skatu izveide.md",
-    "Kursi (akadēmija)/Back-end Python/Jaunā projekta izveide.md",
-    "Kursi (akadēmija)/Back-end Python/Anaconda Prompt (pamata komandas).md",
     "Resursi/Pasted image 20251009201159.png",
     "Resursi/Pasted image 20251009200436.png",
     "Resursi/Pasted image 20251009194640.png",
@@ -280,14 +256,10 @@
     "Resursi/celu pieslegsana.png",
     "Resursi/Pasted image 20251008150350.png",
     "Resursi/Pasted image 20251008150321.png",
-    "Resursi/Pasted image 20251008150252.png",
     "Prezentācijas/5. LINQ.pdf",
     "Prezentācijas/4. Git.pdf",
     "Prezentācijas",
     "Kursi (akadēmija)/Back-end NET/GitHub, LINQ un Fluent APIData Annotation",
-    "Kursi (akadēmija)/Darba drošība",
-    "Kursi (akadēmija)/Devops un mikroservisi/Django programmas izveide",
-    "Kursi (akadēmija)/Back-end Python/Moduļa izveide",
-    "Programmēšanas valodas/Kotlin/Modulis 2/Kotlin fundamentals"
+    "Kursi (akadēmija)/Darba drošība"
   ]
 }
