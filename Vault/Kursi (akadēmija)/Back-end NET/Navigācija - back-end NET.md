@@ -14,6 +14,7 @@ ___
 | Darbs ar DB, tabulu ierakstu izvads          | [[Darbs ar DB, tabulu ierakstu izvads]]                     |
 | Navigācija - Code first                      | [[Navigācija - Code first]]                                 |
 | GitHub, LINQ un Fluent API/Data Annotation   | [[Navigācija - GitHub, LINQ un Fluent API,Data Annotation]] |
+| ASP NET mājaslapas veidošana                 | [[ASP NET mājaslapas veidošana]]                            |
 
 
 ---

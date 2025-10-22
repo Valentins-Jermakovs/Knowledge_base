@@ -42,7 +42,7 @@ Lai izveidot skatu savam jaunajam modulim, moduļa failā `views.py` veic šāda
 
 ```python
 # Importē bibliotēku
-from django.http import HttpRespone
+from django.http import HttpResponse
 
 # Izveido funkciju, kas atgriež skatu
 def cart_main_view(request):
@@ -53,7 +53,7 @@ Pēc šādas modifikācijas, nepieciešams pieslēgt skatu pie maršrutiem, galv
 
 ```python
 # Importē skatus veidojošas funkcijas
-from cart.vies import *
+from cart.views import *
 # Pieslēdz skatu masīvā
 urlpatterns = [
 	path('cart', cart_main_view),
