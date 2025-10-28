@@ -75,6 +75,6 @@ Bīstamās nozarēs obligātā kārtībā vajag, lai uzņēmumos būtu darba dro
 ### ⇄ Saistības
 
 Iepriekšēja lapa >>> [[Lekcija 1]]
-Nākama lapa >>> [[šablons]]
+Nākama lapa >>> [[Lekcija 3]]
 
 ---
